@@ -1,0 +1,461 @@
+版本号：2.0.0
+维护者：ChatGPT
+更新时间：2026-08-19
+
+// My Little Pony: Friendship Is Magic G4 中文术语表
+// 适用于英文同人文翻译，采用中文圈常用译名
+// 词条区域区分大小写
+
+
+词条
+// G4 主要角色
+
+Twilight Sparkle = 紫悦
+Twilight = 紫悦
+Fluttershy = 柔柔
+Rainbow Dash = 云宝
+Applejack = 苹果嘉儿
+Rarity = 珍奇
+Pinkie Pie = 碧琪
+Spike = 穗龙
+Discord = 无序
+
+Princess Celestia = 宇宙公主
+Celestia = 宇宙公主
+Princess Luna = 月亮公主
+Luna = 月亮公主
+Princess Cadance = 韵律公主
+Cadance = 韵律公主
+Starlight Glimmer = 星光熠熠
+Starlight = 星光熠熠
+Sunset Shimmer = 余晖烁烁
+Sunset = 余晖烁烁
+Shining Armor = 银甲
+Apple Bloom = 苹果丽丽
+Sweetie Belle = 小蝶
+Scootaloo = 飞板璐璐
+Big Macintosh = 麦托什
+Big Mac = 麦托什
+Granny Smith = 史密夫婆婆
+Maud Pie = 毛德派
+Limestone Pie = 石灰石派
+Marble Pie = 大理石派
+Mrs. Cake = 蛋糕夫人
+Mr. Cake = 蛋糕先生
+Pound Cake = 小胖子
+Pumpkin Cake = 小南瓜
+Trixie = 特丽克茜
+Zecora = 泽科拉
+Cheerilee = 车厘子
+Diamond Tiara = 钻石蒂亚拉
+Silver Spoon = 银勺
+Derpy = 小呆
+Doctor Whooves = 胡夫斯博士
+The Doctor = 博士
+Lyra Heartstrings = 莉拉
+Bon Bon = 邦邦
+Sweetie Drops = 甜心滴
+Octavia Melody = 奥塔维亚
+Vinyl Scratch = 唯一音响
+DJ Pon-3 = DJ Pon-3
+Daring Do = 无畏天马
+Spitfire = 喷火
+Soarin = 舒然
+Fleetfoot = 快脚
+Lightning Dust = 闪尘
+Thunderlane = 雷霆
+Flurry Heart = 小公主
+Prince Blueblood = 蓝血王子
+Queen Chrysalis = 邪茧女王
+Chrysalis = 邪茧
+King Sombra = 森布拉大王
+Sombra = 森布拉
+Lord Tirek = 提雷克
+Tirek = 提雷克
+Cozy Glow = 余晖流光
+Thorax = 索拉克斯
+Pharynx = 法林克斯
+Ember = 艾姆伯
+Garble = 加布尔
+Gabby = 加比
+Rutherford = 拉瑟福德
+Yona = 尤娜
+Smolder = 斯莫德
+Ocellus = 欧赛勒斯
+Gallus = 加勒斯
+Silverstream = 银溪
+Sandbar = 沙滩
+Neighsay = 奈赛
+Chancellor Neighsay = 奈赛大臣
+Nightmare Moon = 梦魇之月
+Nightmare Rarity = 梦魇珍奇
+Daybreaker = 破晓
+Tempest Shadow = 暴风雪
+Storm King = 风暴大王
+Queen Novo = 诺沃女王
+Captain Celaeno = 塞拉诺船长
+
+
+// 地点与建筑
+
+Equestria = 小马国
+Ponyville = 小马谷
+Canterlot = 坎特洛特
+Cloudsdale = 云中城
+Manehattan = 马哈顿
+Appleloosa = 苹果鲁萨
+Las Pegasus = 拉斯飞马斯
+Baltimare = 巴尔的摩
+Fillydelphia = 小马城
+Vanhoover = 范胡佛
+Crystal Empire = 水晶帝国
+Klugetown = 克鲁格镇
+Everfree Forest = 永恒自由森林
+Whitetail Woods = 白尾森林
+Ghastly Gorge = 鬼魅峡谷
+Dragon Lands = 龙之国
+Changeling Kingdom = 幻形灵王国
+Badlands = 荒地
+Tartarus = 塔尔塔洛斯
+Griffish Isles = 狮鹫群岛
+Yak Yakistan = 牦牦斯坦
+Sweet Apple Acres = 甜苹果园
+Golden Oak Library = 金橡树图书馆
+Castle of Friendship = 友谊城堡
+Canterlot Castle = 坎特洛特城堡
+Crystal Castle = 水晶城堡
+School of Friendship = 友谊学校
+Tree of Harmony = 和谐之树
+Castle of the Two Sisters = 两姐妹城堡
+Fluttershy's Cottage = 柔柔的小屋
+Sugarcube Corner = 糖块屋
+Carousel Boutique = 旋转木马精品店
+Wonderbolts Academy = 闪电飞马队学院
+
+
+// 组织、活动与世界观
+
+Wonderbolts = 闪电飞马队
+Wonderbolt = 闪电飞马队成员
+Cutie Mark Crusaders = 可爱标记童子军
+CMC = 可爱标记童子军
+Elements of Harmony = 和谐元素
+Element of Harmony = 和谐元素
+Cutie Map = 可爱标记地图
+Grand Galloping Gala = 盛大疾驰庆典
+Nightmare Night = 梦魇之夜
+Winter Wrap Up = 冬季清扫
+Summer Sun Celebration = 夏日太阳庆典
+Hearth's Warming = 暖炉节
+Hearth's Warming Eve = 暖炉节前夜
+Hearts and Hooves Day = 心蹄节
+Running of the Leaves = 落叶赛跑
+Equestria Games = 小马国运动会
+Sonic Rainboom = 音速彩虹
+Friendship Is Magic = 友谊就是魔法
+Royal Guard = 皇家卫队
+royal guard = 皇家卫队
+
+
+// 种族
+
+Earth Pony = 陆马
+Earth Ponies = 陆马
+Unicorn = 独角兽
+Unicorns = 独角兽
+Pegasus = 飞马
+Pegasi = 飞马
+Alicorn = 天角兽
+Alicorns = 天角兽
+pony = 小马
+ponies = 小马
+Pony = 小马
+Ponies = 小马
+mare = 母马
+mares = 母马
+stallion = 公马
+stallions = 公马
+filly = 小母马
+fillies = 小母马
+colt = 小公马
+colts = 小公马
+foal = 幼驹
+foals = 幼驹
+dragon = 龙
+dragons = 龙
+griffon = 狮鹫
+griffons = 狮鹫
+changeling = 幻形灵
+changelings = 幻形灵
+zebra = 斑马
+yak = 牦牛
+kirin = 麒麟
+hippogriff = 鹰马
+seapony = 海马
+siren = 海妖
+Draconequus = 龙马
+draconequus = 龙马
+
+
+// 魔法与能力
+
+magic = 魔法
+magical = 魔法的
+spell = 法术
+spells = 法术
+spellbook = 魔法书
+potion = 药水
+enchantment = 附魔
+curse = 诅咒
+cursed = 被诅咒的
+magical artifact = 魔法神器
+magic aura = 魔法光环
+magic beam = 魔法光束
+magic blast = 魔法冲击
+magic shield = 魔法护盾
+teleportation = 瞬移
+teleport = 瞬移
+levitation = 悬浮
+telekinesis = 念动力
+cast a spell = 施法
+casting a spell = 施法
+dark magic = 黑魔法
+friendship magic = 友谊魔法
+chaos magic = 混沌魔法
+chaos = 混沌
+Harmony = 和谐
+reality warping = 现实扭曲
+reality warp = 现实扭曲
+portal = 传送门
+alternate universe = 平行宇宙
+parallel universe = 平行宇宙
+timeline = 时间线
+timelines = 时间线
+time travel = 时间旅行
+time loop = 时间循环
+prophecy = 预言
+artifact = 遗物
+
+
+// Fluttercord 同人常用词
+
+Lord of Chaos = 混沌之主
+Spirit of Chaos = 混沌之灵
+Discord's magic = 无序的魔法
+Discord's powers = 无序的力量
+chaos dimension = 混沌空间
+chaos realm = 混沌领域
+reform = 改过自新
+reformed = 改过自新的
+redemption = 救赎
+redeemed = 得到救赎的
+reformed villain = 改过自新的反派
+Fluttershy's cottage = 柔柔的小屋
+animal sanctuary = 动物保护区
+animal friends = 动物朋友们
+Angel Bunny = 安吉尔兔
+Angel = 安吉尔
+kindness = 善良
+Element of Kindness = 善良元素
+chaos and harmony = 混沌与和谐
+chaos and order = 混沌与秩序
+
+
+// 身体部位及小马世界表达
+
+wing = 翅膀
+wings = 翅膀
+horn = 独角
+horns = 独角
+tail = 尾巴
+mane = 鬃毛
+hoof = 蹄
+hooves = 蹄子
+foreleg = 前腿
+forelegs = 前腿
+hind leg = 后腿
+hind legs = 后腿
+flank = 腰侧
+muzzle = 口鼻部
+snout = 吻部
+cutie mark = 可爱标记
+cutie marks = 可爱标记
+hoof bump = 蹄碰蹄
+hoofshake = 握蹄
+hoofprint = 蹄印
+facehoof = 捂脸
+
+
+// 小马专属代词
+
+anypony = 任何小马
+somepony = 某匹小马
+everypony = 所有小马
+nopony = 没有小马
+everypony else = 其他所有小马
+everycreature = 所有生物
+somecreature = 某个生物
+anycreature = 任何生物
+nocreature = 没有生物
+
+
+// 王室与社会
+
+princess = 公主
+princesses = 公主们
+prince = 王子
+princes = 王子们
+queen = 女王
+queens = 女王们
+king = 国王
+kings = 国王们
+empress = 女皇
+emperor = 皇帝
+throne = 王座
+crown = 王冠
+royal = 王室的
+royalty = 王室
+royal family = 王室
+guard = 卫兵
+guards = 卫兵们
+captain = 队长
+commander = 指挥官
+chancellor = 大臣
+
+
+// 日常与同人常用词
+
+friendship = 友谊
+friend = 朋友
+friends = 朋友们
+best friend = 最好的朋友
+partner = 伴侣
+significant other = 伴侣
+beloved = 挚爱
+darling = 亲爱的
+sweetheart = 亲爱的
+dear = 亲爱的
+love = 爱
+lover = 恋人
+lovers = 恋人们
+romance = 恋爱
+romantic = 浪漫的
+relationship = 关系
+dating = 约会
+date = 约会
+courtship = 求爱
+crush = 暗恋对象
+confession = 告白
+love confession = 告白
+confess = 告白
+kiss = 吻
+kissing = 接吻
+hug = 拥抱
+hugging = 拥抱
+cuddle = 依偎
+cuddling = 依偎
+embrace = 拥抱
+affection = 爱意
+affectionate = 充满爱意的
+fondness = 喜爱
+devotion = 深情
+devoted = 深情的
+jealous = 吃醋的
+jealousy = 嫉妒
+blush = 脸红
+blushing = 脸红
+flustered = 不知所措的
+smile = 微笑
+smiling = 微笑
+sigh = 叹气
+sighing = 叹气
+
+
+
+// 苹果家族
+
+Apple family = 苹果家族
+apple orchard = 苹果园
+apple harvest = 苹果收成
+apple bucking = 踢苹果
+barn = 谷仓
+farmhouse = 农舍
+apple cider = 苹果西打
+cider = 西打
+apple tree = 苹果树
+
+
+// 天气与飞行
+
+cloud = 云
+clouds = 云朵
+raincloud = 雨云
+rainbow = 彩虹
+weather team = 天气队
+weather patrol = 天气巡逻队
+weather factory = 天气工厂
+weather control = 天气控制
+fly = 飞
+flying = 飞行
+flight = 飞行
+take flight = 起飞
+land = 着陆
+landing = 着陆
+soar = 翱翔
+soaring = 翱翔
+dash = 冲刺
+speed = 速度
+
+
+// 水晶帝国
+
+crystal pony = 水晶小马
+crystal ponies = 水晶小马们
+crystal heart = 水晶之心
+Crystal Heart = 水晶之心
+Crystal Fair = 水晶庆典
+crystal magic = 水晶魔法
+
+
+// 幻形灵
+
+changeling hive = 幻形灵巢
+hive = 巢穴
+hive mind = 蜂群意识
+feed on love = 以爱为食
+feeding on love = 以爱为食
+love magic = 爱之魔法
+shapeshift = 变形
+shapeshifting = 变形
+shapeshifter = 变形者
+
+
+// 龙族
+
+dragon lord = 龙王
+Dragon Lord = 龙王
+dragon fire = 龙火
+dragon flame = 龙焰
+dragon gem = 龙宝石
+hoard = 宝藏
+dragon hoard = 龙之宝藏
+
+
+// 禁翻词条
+// 仅保留真正希望原样出现的缩写或作品标签
+// 不要把 Discord、Fluttershy 等需要翻译的角色名放在这里
+
+MLP
+MLP:FIM
+MLP G4
+G4
+Fluttercord
+
+
+// 正则表达式
+
+\banypony\b = 任何小马
+\bsomepony\b = 某匹小马
+\beverypony\b = 所有小马
+\bnopony\b = 没有小马
+\beverypony else\b = 其他所有小马
